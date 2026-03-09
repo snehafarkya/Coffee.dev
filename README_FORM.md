@@ -142,3 +142,7 @@ This helps simulate real-world conditions such as:
 7. Submission history updates with final result
 
 ---
+Live: [Github](https://github.com/snehafarkya/Coffee.dev) 
+Deploy: [Vercel](https://coffee-dev-plum.vercel.app/)
+
+Looking forward to your response.
